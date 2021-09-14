@@ -32,9 +32,4 @@ Technologies used
      3.Open with Jmeter
      4.Generate HTML Report with :
           cmd line : jmeter -n -t <jmx file.jmx> -l <jtl file.csv> -e -o <html_folder>
-     With Gatling:
-     
-        1.Installation of Gatling from Website Download
-        
-                  
- 
+    
